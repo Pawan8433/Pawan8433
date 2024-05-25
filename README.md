@@ -11,6 +11,5 @@ I am a passionate B.Sc. IT graduate from the University of Mumbai, driven by a c
 - 💬 Ask me about web development, JavaScript, PHP, and my projects.
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/pawan-singh-65b408216) or email me at pawanatendrasingh@gmail.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles and often participate in online coding challenges for fun.
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
