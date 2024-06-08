@@ -1,9 +1,9 @@
-# Hi, I'm Pawan Kumar Atendra Singh! 👋
+# Hi, I'm Pawan Atendra Singh! 👋
 
-I am a passionate B.Sc. IT graduate from the University of Mumbai, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+ 
 
 ## 🚀 About Me
-
+- 🎓 I am currently pursuing a B.Sc. in Information Technology from Chetna’s Hazarimal Somani College, University of Mumbai.
 - 🔭 I’m currently working on a web application for Shreenathji Computer Classes, integrating features such as attendance management, fee tracking, and assignment quizzes.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate on open source projects and innovative web development initiatives.
